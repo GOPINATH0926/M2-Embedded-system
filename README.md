@@ -1,4 +1,8 @@
-## M2-Embedded-system
+# M2-Embedded-system
+
+### CODACY BADGE
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f12a005817bc46d98f68c0a0cc307e45)](https://www.codacy.com/gh/GOPINATH0926/M2-Embedded-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GOPINATH0926/M2-Embedded-system&amp;utm_campaign=Badge_Grade)
+
 
 [![Analysis](https://github.com/GOPINATH0926/M2-Embedded-system/actions/workflows/Analysis.yml/badge.svg)](https://github.com/GOPINATH0926/M2-Embedded-system/actions/workflows/Analysis.yml)
 
