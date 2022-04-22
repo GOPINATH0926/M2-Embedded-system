@@ -10,3 +10,4 @@
 
 [![cpp_check](https://github.com/GOPINATH0926/M2-Embedded-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/GOPINATH0926/M2-Embedded-system/actions/workflows/cppcheck.yml)
 
+[![Valgrind](https://github.com/GOPINATH0926/M2-Embedded-system/actions/workflows/valgrind.yml/badge.svg)](https://github.com/GOPINATH0926/M2-Embedded-system/actions/workflows/valgrind.yml)
